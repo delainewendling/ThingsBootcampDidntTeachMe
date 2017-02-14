@@ -1,3 +1,5 @@
+# NOTE: THIS IS A WIP. THE CURRENT VERSION OF THIS DOCUMENT IS INCOMPLETE AND DOES NOT PROVIDE MUCH VALUE AS IS. YOU HAVE BEEN WARNED :)
+
 # Things Bootcamp Didn't Teach Me
 
 A collection of notes I've taken while starting my first software job. This repo contains a collection of topics that were not taught at my bootcamp (Nashville Software School) that I have learned on the job.
