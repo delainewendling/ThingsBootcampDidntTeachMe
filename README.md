@@ -27,3 +27,9 @@ Time zones are complicated
 ### Certificates
 
 Certificates
+
+## Week 2
+
+### JWT
+
+or "I don't know anything about security"
